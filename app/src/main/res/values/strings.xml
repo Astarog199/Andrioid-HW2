@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidHW2</string>
+    <string name="str1">Верхняя строчка</string>
+    <string name="str2">Нижняя строчка</string>
+</resources>
